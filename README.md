@@ -1,2 +1,2 @@
 # ASSURE_Scripts
-Scripts for ASSURE antibiotic stewardship study
+These scripts may be useful for ASSURE antibiotic stewardship study. Some of them are from the previous antibiotic stewardship project EMPOWER, which examined antibiotic prescribing for respiratory tract infections.
